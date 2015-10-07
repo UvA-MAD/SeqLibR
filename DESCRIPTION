@@ -1,0 +1,9 @@
+Package: SeqLibR
+Type: Package
+Title: Sequence Library
+Version: 1.4
+Date: 2011-02-23
+Author: Wim de Leeuw 
+Maintainer: Wim de Leeuw <w.c.deleeuw@uva.nl>
+Description: Offer basic functions the handling of genomic sequence data in R. 
+License: GPL-3
